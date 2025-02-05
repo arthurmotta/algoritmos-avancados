@@ -12,16 +12,16 @@ O repositório está organizado em **três TP's (Testes de Performance)** e um *
 - **Exercícios práticos** resolvidos durante a disciplina.
 
 #### **TP1**
-- *(Adicione os detalhes do TP1 aqui, se houver.)*
+- **
 
 #### **TP2**
-- *(Adicione os detalhes do TP2 aqui, se houver.)*
+- **
 
 #### **TP3**
-- *(Adicione os detalhes do TP3 aqui, se houver.)*
+- **
 
 #### **Assessment Final**
-- *(Adicione os detalhes do Assessment Final aqui, se houver.)*
+- **
 
 <h3>🛠️ Ao longo dessa disciplina, as seguintes competências foram demonstradas:</h3>
   
